@@ -5,10 +5,17 @@ React Native 是開發手機應用的另一個選擇。使用 React Native 與 J
 
 ## 課程大綱
 
-* 第 1 課：React Native 元件與應用程式
-* 第 2 課：React Native 佈局 (Layout)
-* 第 3 課：React Native Camera 
-
+* 第 1 課：React Native 框架介紹
+* 第 2 課：React Native 學習指引
+* 第 3 課：建立 React Native 的 iOS App 專案
+* 第 4 課：React Native UI 基本結構（iOS App）
+* 第 5 課：State 與 Touch Events 實作（iOS App）
+* 第 6 課：Navigation Bar 與基本 View 元件（iOS App）
+* 第 7 課：ListView 與 ScrollView（iOS App）
+* 第 8 課：Persist Data 與 REST API
+* 第 9 課：Styles in JavaScript 與 Reusable Tyles
+* 第 10 課：完成美食推薦 iOS App
+ 
 ## 學習藍圖
 
 課程內容分 3 二個部份：
