@@ -1,6 +1,7 @@
 
-<h1 class="hide">React Native 實戰教學：<br />使用 React 打造 iOS App</h1>
+<h1 class="hide"React Native 實戰演練：<br />使用 JavaScript 開發 iOS App</h1>
 
+React Native 是開發手機應用的另一個選擇。使用 React Native 與 JavaScript 程式語言，同時開發 iOS 與 Android 應用程式，是今年相當受歡迎的技術。
 
 ## 課程大綱
 
