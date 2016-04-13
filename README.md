@@ -33,6 +33,8 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 2. 如果想節省入門時間，可參加 [React 101 實戰教學：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101) 課程
 3. 如果想在家自學，可購買 [React 101 線上課程：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101-Online)，這份線上課程為全中文規劃與製作，相信可以讓學習時間更有效率
 
+> 具備基本的 React 基礎知識，參加本課程，就可以在 7 個小時的時間裡，有條理地獨立完成一個 iOS App 專題
+
 ## 上課環境
 
 * 請自備 Macbook，作業系統版本為 OS X 10.9 以上
