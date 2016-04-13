@@ -62,6 +62,8 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 * 學習使用 React Native 開發基本 iOS UI 元件：ListView、WebView、Button 等
 * 學習 REST API 並製作美食推薦 iOS App
 
+> 製作專題的過程中，也會給予學員 Thinking in React 與 Thinking in Architecture 的訓練...
+
 ## 課程目標
 
 React Native 實戰演練課程，採取工作坊的形式，搭配一個美食推薦 App 專題。本課程適合：
