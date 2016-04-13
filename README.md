@@ -1,7 +1,7 @@
 
 <h1 class="hide">React Native 實戰演練：<br />使用 JavaScript 開發 iOS App</h1>
 
-<h2>學習 Objective-C、Apple Swift 與 Android SDK（Java）的話，就是三套觀念與技術；學習 React Native 的話就是一套觀念與技術...</h2>
+> 學習 Objective-C、Apple Swift 與 Android SDK（Java）的話，就是三套觀念與技術；學習 React Native 的話就是一套觀念與技術...
 
 React Native 是開發手機應用的另一個選擇。使用 React Native 與 JavaScript 程式語言，同時開發 iOS 與 Android 應用程式，是今年相當受歡迎的技術。
 
