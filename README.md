@@ -79,7 +79,7 @@ React Native 實戰演練課程，採取工作坊的形式，搭配一個美食�
     <div class="row">
       <div class="col-md-2 text-left"><img src="https://avatars1.githubusercontent.com/u/1126021?v=3&s=400" width="128" height="128" class="img-circle img-responsive"></div>
       <div class="col-md-10">
-        <h3 style="font-weight: 400; font-size: 1.6em; ">Jollen Chen (本梯次主講者)</h3>
+        <h3 style="font-weight: 400; font-size: 1.6em; ">Jollen Chen</h3>
         <p style="font-weight: 300; color: #222; margin-top: -12px;">Jollen 是 Node.js 的全端開發者，正大量使用 Backbone 與 React 開發 IoT 相關的 web frontend 與 single-page application。Jollen 是 Moko365 的技術總監暨講師，也是 WoT.City 物聯網軟體公司的開發者。</p>
       </div>
     </div>
@@ -99,5 +99,7 @@ React Native 實戰演練課程，採取工作坊的形式，搭配一個美食�
 
 ## 開課時間
 
-* 時間：待定
+* 時間：平日下午班（共 2 天、總計 7 小時）
+ * Day 1－2016 年 6 月 2 日（四）14:00-17:30
+ * Day 2－2016 年 6 月 23 日（四）14:00-17:30
 * 地點：台北市博愛路 25 號 3F
