@@ -38,21 +38,19 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 ## 上課環境
 
 * 請自備 Macbook，作業系統版本為 OS X 10.9 以上
-* 請安裝 Xcode，版本 6.2 以上
+* 請安裝 Xcode，版本 7.0 以上
 * 請安裝 Node.js，版本 v4.3 以上
 
 ## 課程大綱
 
-* 第 1 課：React Native 框架介紹
-* 第 2 課：React Native 學習指引
-* 第 3 課：建立 React Native 的 iOS App 專案
-* 第 4 課：React Native UI 基本結構（iOS App）
-* 第 5 課：State 與 Touch Events 實作（iOS App）
-* 第 6 課：Navigation Bar 與基本 View 元件（iOS App）
-* 第 7 課：ListView 與 ScrollView（iOS App）
-* 第 8 課：Persist Data 與 REST API
-* 第 9 課：Styles in JavaScript 與 Reusable Tyles
-* 第 10 課：完成美食推薦 iOS App
+* 第 1 課：建立第一個 React Native 專案（iOS App）
+* 第 2 課：React Native UI 基本結構（iOS App）
+* 第 3 課：State 與 Touch Events 實作（iOS App）
+* 第 4 課：Navigation Bar 與基本 View 元件（iOS App）
+* 第 5 課：ListView 與 ScrollView（iOS App）
+* 第 6 課：Persist Data 與 REST API
+* 第 7 課：Styles in JavaScript 與 Reusable Tyles
+* 第 8 課：旅遊景點 iOS App 專題
  
 ## 課程專題
 
