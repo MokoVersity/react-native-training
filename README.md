@@ -46,13 +46,23 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 
 * 第 1 課：建立第一個 React Native 專案（iOS App）
 * 第 2 課：React Native UI 基本結構（iOS App）
-* 第 3 課：State 與 Touch Events 實作（iOS App）
-* 第 4 課：Navigation Bar 與基本 View 元件（iOS App）
+ * Welcome Page 製作
+ * View 與 Image 元件的使用
+ * 圖檔製作原則
+ * Props 觀念加強
+* 第 3 課：React Native 地圖元件實作（iOS App）
+ * 美食地圖 Page 製作（MapView）
+ * 如何使用樣式（Styles）
+* 第 4 課：Navigation Bar 與 React Router（iOS App）
 * 第 5 課：ListView 與 ScrollView（iOS App）
 * 第 6 課：Persist Data 與 REST API
 * 第 7 課：Styles in JavaScript 與 Reusable Tyles
 * 第 8 課：旅遊景點 iOS App 專題
  
+
+![react-native-1](https://cloud.githubusercontent.com/assets/1126021/14764948/1e67a4e0-09fe-11e6-887d-e6c226a222f2.png)
+圖 1：Welcome Page 製作
+
 ## 課程專題
 
 課程內容分為 3 大主軸：
