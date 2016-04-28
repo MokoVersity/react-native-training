@@ -59,10 +59,13 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 * 第 7 課：Styles in JavaScript 與 Reusable Tyles
 * 第 8 課：旅遊景點 iOS App 專題
  
+<div clsas="row">
+  <div class="col-md-4 col-xs-6 col-lg-4 col-xs-4">
+    <img class="img-responsive" src="https://cloud.githubusercontent.com/assets/1126021/14764948/1e67a4e0-09fe-11e6-887d-e6c226a222f2.png" />
+    <p>圖 1：Welcome Page 製作</p>
+  </div>
+</div>
 
-<img class="img-responsive" src="https://cloud.githubusercontent.com/assets/1126021/14764948/1e67a4e0-09fe-11e6-887d-e6c226a222f2.png" />
-
-圖 1：Welcome Page 製作
 
 ## 課程專題
 
