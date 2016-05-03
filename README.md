@@ -1,7 +1,7 @@
 
 <h1 class="hide">React Native 實戰演練：<br />使用 JavaScript 開發 iOS App</h1>
 
-> 學習 Objective-C、Apple Swift 與 Android SDK（Java）的話，就是三套觀念與技術；學習 React Native 的話就是一套觀念與技術...
+> 學習 Objective-C、Apple Swift 與 Android SDK（Java）的話，就是三套觀念與技術；學習 React Native 的話就是一套觀念與技術
 
 React Native 是開發手機應用的另一個選擇。使用 React Native 與 JavaScript 程式語言，同時開發 iOS 與 Android 應用程式，是今年相當受歡迎的技術。
 
@@ -32,7 +32,7 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 
 1. 可閱讀 React 官方文件：[Getting Started](https://facebook.github.io/react/docs/getting-started.html)、[Tutorial](https://facebook.github.io/react/docs/tutorial.html) 與 [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) 文件，並練習撰寫簡單的 React Component。
 2. 如果想節省入門時間，可參加 [React 101 實戰教學：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101) 課程
-3. 如果想在家自學，可購買 [React 101 線上課程：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101-Online)，這份線上課程為全中文規劃與製作，相信可以讓學習時間更有效率
+3. 如果想在家自學，可購買 [React 101 線上課程：開始用 React 打造 Web Frontend](https://www.mokoversity.com/course/React-101-Online)，這份線上課程為全中文規劃與製作，相信可以讓學習時間更有效率
 
 > 具備基本的 React 基礎知識，參加本課程，就可以在 7 個小時的時間裡，有條理地獨立完成一個 iOS App 專題
 
