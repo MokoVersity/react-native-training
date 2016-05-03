@@ -54,6 +54,8 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
  * 美食地圖 Page 製作（MapView）
  * 如何使用樣式（Styles）
 * 第 4 課：Navigation Bar 與 React Router（iOS App）
+ * 選單 (Menu) 製作
+ * 分頁切換
 * 第 5 課：ListView 與 ScrollView（iOS App）
 * 第 6 課：Persist Data 與 REST API (Web Service 整合)
 * 第 7 課：Styles in JavaScript 與 Reusable Styles
