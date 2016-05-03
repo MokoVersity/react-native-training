@@ -25,7 +25,7 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 以下是參加本課程，必須具備的條件：
 
 * 具備 React 基礎知識：曾撰寫過 JSX 語法或是撰寫過 React Component
-* 需有基本的 JavaScript 寫作能力（ES5、ES6 或 ES2015 皆可）
+* 需有基本的 JavaScript 寫作能力
 * 使用過 Node.js 開發環境：曾使用 npm 安裝過 Node.js 模組
 
 這個課程是全程上機實作，對於完全沒有 React 開發經驗的朋友，可能會有學習成效的問題。建議課前自學 React 基本知識，以下是幾個建議：
@@ -105,10 +105,6 @@ React Native 實戰演練課程，採取工作坊的形式，搭配一個美食�
     </div>
   </div>
 </section>
-
-## 注意事項
-
-* 課程有一小時的專題指導時間（16:30~17:30）
 
 ## 開課時間
 
