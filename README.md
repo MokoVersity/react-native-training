@@ -13,7 +13,7 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 
 * **React Native** 與 PhoneGap 最大的差異，在於 React Native 直接使用手機原生（Native）的 JavaScript 元件，這表示使用 React Native 打造的 App，與直接使用原生 SDK 製作的 App 沒有倆樣。
 
-## 為什麼要選擇 React Native ?
+## 為什麼選擇 React Native ?
 
 我現在知道 React Native 與 PhoneGap 的差別了，如果我想學習 iOS App 開發，為什麼要選擇 React Native 框架，會建議學習 Objective-C 或是 Apple Swift 嗎？
 
