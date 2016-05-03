@@ -32,7 +32,7 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 
 1. 可閱讀 React 官方文件：[Getting Started](https://facebook.github.io/react/docs/getting-started.html)、[Tutorial](https://facebook.github.io/react/docs/tutorial.html) 與 [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) 文件，並練習撰寫簡單的 React Component。
 2. 如果想節省入門時間，可參加 [React 101 實戰教學：開始用 React 打造 Web Frontend](https://www.mokoversity.com/training/React-101) 課程
-3. 如果想在家自學，可購買 [React 101 線上課程：開始用 React 打造 Web Frontend](https://www.mokoversity.com/course/React-101-Online)，這份線上課程為全中文規劃與製作，相信可以讓學習時間更有效率
+3. 如果想在家自學，可購買 [React 101 線上課程：開始用 React 打造 Web Frontend](https://www.mokoversity.com/course/React/React-101-Online)，這份線上課程為全中文規劃與製作，相信可以讓學習時間更有效率
 
 > 具備基本的 React 基礎知識，參加本課程，就可以在 7 個小時的時間裡，有條理地獨立完成一個 iOS App 專題
 
@@ -57,7 +57,7 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 * 第 5 課：ListView 與 ScrollView（iOS App）
 * 第 6 課：Persist Data 與 REST API
 * 第 7 課：Styles in JavaScript 與 Reusable Tyles
-* 第 8 課：旅遊景點 iOS App 專題
+* 第 8 課：美食推薦 iOS App 專題
  
 <div class="row">
   <div class="col-md-4 col-xs-6 col-lg-4 col-xs-4">
