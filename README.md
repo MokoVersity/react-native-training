@@ -79,7 +79,7 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 
 ## 課程目標
 
-React Native 實戰演練課程，採取工作坊的形式，搭配一個旅遊景點推薦 iOS App 專題。本課程適合：
+React Native 實戰演練課程，採取工作坊的形式，搭配一個美食推薦 iOS App 專題。本課程適合：
 
 * iOS App 初學者
 * 想開始接觸使用 JavaScript 開發 iOS app 的設計師
