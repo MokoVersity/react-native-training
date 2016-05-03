@@ -9,7 +9,7 @@ React Native 是開發手機應用的另一個選擇。使用 React Native 與 J
 
 React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也都是以 JavaScript 打造 App 的軟體框架。如果我想進入 App 開發領域，要學習哪一個框架，以及二個框架有什麼差異？
 
-* **PhoneGap** 是「使用 JavaScript 開發 App」的始祖，它的技術原理是將 *WebView* 封裝成手機應用。*WebView* 是手機瀏覽器的元件，這意謂開發者可以使用 JavaScript/CSS3/HTML5 來製作 Web UI，並透過 *WebView* 元件在手機上運行。PhoneGap 就是利用這樣的原理所打造的框架。PhoneGap 所提供的 JavaScript API 都要透過 *WebView* 元件執行，*WebView* 再實作一個稱為 *JavaScript-Java Bindings* 的介面，呼叫 Native APis。
+* **PhoneGap** 是「使用 JavaScript 開發 App」的始祖，它的技術原理是將 *WebView* 封裝成手機應用。*WebView* 是手機瀏覽器的元件，這意謂開發者可以使用 JavaScript/CSS3/HTML5 來製作 Web UI，並透過 *WebView* 元件在手機上運行。PhoneGap 就是利用這樣的原理所打造的框架。PhoneGap 所提供的 JavaScript API 都要透過 *WebView* 元件執行，*WebView* 再實作一個稱為 *JavaScript-Java Bindings* 的介面，呼叫 Native APIs。
 
 * **React Native** 與 PhoneGap 最大的差異，在於 React Native 直接使用手機原生（Native）的 JavaScript 元件，這表示使用 React Native 打造的 App，與直接使用原生 SDK 製作的 App 沒有倆樣。
 
