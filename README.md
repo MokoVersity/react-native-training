@@ -5,7 +5,7 @@
 
 React Native 是開發手機應用的另一個選擇。使用 React Native 與 JavaScript 程式語言，同時開發 iOS 與 Android 應用程式，是今年相當受歡迎的技術。
 
-## 課程介紹
+## PhoneGap vs React Native
 
 React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也都是以 JavaScript 打造 App 的軟體框架。如果我想進入 App 開發領域，要學習哪一個框架，以及二個框架有什麼差異？
 
@@ -13,12 +13,12 @@ React Native 與 PhoenGap 都是行動應用程式（App）的開發框架，也
 
 * **React Native** 與 PhoneGap 最大的差異，在於 React Native 直接使用手機原生（Native）的 JavaScript 元件，這表示使用 React Native 打造的 App，與直接使用原生 SDK 製作的 App 沒有倆樣。
 
-## 學習指南
+## 為什麼學習 React Native ?
 
 我現在知道 React Native 與 PhoneGap 的差別了，如果我想學習 iOS App 開發，為什麼要選擇 React Native 框架，會建議學習 Objective-C 或是 Apple Swift 嗎？
 
 * **JavaScript** 是 React Native 的編程語言，對於有 JavaScript 程式設計經驗的前端工程師、UI 設計師或產品經驗來說，React Native 的學習門檻低，入門速度快。
-* [**Learn Once, Write Anywhere**](https://facebook.github.io/react/blog/2015/03/26/introducing-react-native.html) 是 React Native 的精神。Facebook 開發團隊認為，不同的行動平台有不同的風格與外觀，因此不引用 <del>write once, run anywhere</del> 的理念（這是 PhoneGap 的訴求），而是分別為 iOS 與 Android 製作應用程式。但是 React Native 能提供「一致的觀念」與「相同的技術」，但開發者不需要「學習個別平台的觀念與技術」，也能「開發多個平台的應用程式」。因此，學習 Objective-C、Apple Swift 與 Android SDK（Java）的話，就是三套觀念與技術；學習 React Native 的話就是一套觀念與技術。
+* [**Learn Once, Write Anywhere**](https://facebook.github.io/react/blog/2015/03/26/introducing-react-native.html) 是 React Native 的精神。Facebook 開發團隊認為，不同的行動平台有不同的風格與外觀，因此不引用 <del>write once, run anywhere</del> 的理念（這是 PhoneGap 的訴求），而是分別為 iOS 與 Android 製作應用程式。但是 React Native 能提供「一致的觀念」與「相同的技術」，讓你不需要「學習 iOS 與 Android 二個平台的觀念與技術」，也能「開發 iOS 與 Android 的應用程式」。因此，學習 Objective-C、Apple Swift 與 Android SDK（Java）的話，就是三套觀念與技術；學習 React Native 的話就是一套觀念與技術。
 
 ## 先備知識
 
